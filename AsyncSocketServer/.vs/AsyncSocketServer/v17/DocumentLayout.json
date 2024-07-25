@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53645A4E-3A7D-49F0-BF4F-FACEB6A2DEAE}|AsyncSocketServer\\AsyncSocketServer.csproj|c:\\users\\febri\\source\\repos\\asyncsocketserver\\asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53645A4E-3A7D-49F0-BF4F-FACEB6A2DEAE}|AsyncSocketServer\\AsyncSocketServer.csproj|solutionrelative:asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D858BD-B9FE-4856-A37C-43E9C5ABF4D3}|SocketAsunc\\SocketAsync.csproj|c:\\users\\febri\\source\\repos\\asyncsocketserver\\socketasunc\\socketsever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D858BD-B9FE-4856-A37C-43E9C5ABF4D3}|SocketAsunc\\SocketAsync.csproj|solutionrelative:socketasunc\\socketsever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D858BD-B9FE-4856-A37C-43E9C5ABF4D3}|SocketAsunc\\SocketAsync.csproj|c:\\users\\febri\\source\\repos\\asyncsocketserver\\socketasunc\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D858BD-B9FE-4856-A37C-43E9C5ABF4D3}|SocketAsunc\\SocketAsync.csproj|solutionrelative:socketasunc\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\AsyncSocketServer\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncSocketServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\AsyncSocketServer\\Form1.cs",
+              "RelativeToolTip": "AsyncSocketServer\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:27:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketSever.cs",
+              "DocumentMoniker": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\SocketAsunc\\SocketSever.cs",
+              "RelativeDocumentMoniker": "SocketAsunc\\SocketSever.cs",
+              "ToolTip": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\SocketAsunc\\SocketSever.cs",
+              "RelativeToolTip": "SocketAsunc\\SocketSever.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAqwIcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:14:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\SocketAsunc\\CustomEventArgs.cs",
+              "RelativeDocumentMoniker": "SocketAsunc\\CustomEventArgs.cs",
+              "ToolTip": "C:\\Users\\febri\\source\\repos\\AsyncSocketServer\\SocketAsunc\\CustomEventArgs.cs",
+              "RelativeToolTip": "SocketAsunc\\CustomEventArgs.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:10:14.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

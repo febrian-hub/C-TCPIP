@@ -1,0 +1,6 @@
+C:\Users\febri\source\repos\AsyncSocketServer\SocketAsunc\bin\Debug\SocketAsunc.dll
+C:\Users\febri\source\repos\AsyncSocketServer\SocketAsunc\bin\Debug\SocketAsunc.pdb
+C:\Users\febri\source\repos\AsyncSocketServer\SocketAsunc\obj\Debug\SocketAsync.csproj.AssemblyReference.cache
+C:\Users\febri\source\repos\AsyncSocketServer\SocketAsunc\obj\Debug\SocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\febri\source\repos\AsyncSocketServer\SocketAsunc\obj\Debug\SocketAsunc.dll
+C:\Users\febri\source\repos\AsyncSocketServer\SocketAsunc\obj\Debug\SocketAsunc.pdb
